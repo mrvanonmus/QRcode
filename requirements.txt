@@ -1,0 +1,8 @@
+threading
+pyqrcode
+png
+datetime
+pyngrok
+requests
+logging
+flask
