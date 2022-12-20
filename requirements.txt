@@ -1,6 +1,5 @@
-threading
 pyqrcode
-png
+pypng 
 datetime
 pyngrok
 requests
