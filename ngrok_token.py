@@ -1,1 +1,1 @@
-ngrok_auth_token = "hi"
+ngrok_auth_token = "2JB5LPF0HUpG7IuGIMyDdQs0D1M_6yR5tnsrR37WzSJfWwPAb"
