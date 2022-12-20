@@ -1,5 +1,6 @@
 # QRcode
-QRLcode any 
+QRLcode any anything
+
 #install 
 ```
 apt-get install python3
